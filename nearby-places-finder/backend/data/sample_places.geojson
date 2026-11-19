@@ -1,0 +1,245 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8742,
+     18.5286
+    ]
+   },
+   "properties": {
+    "name": "Sassoon General Hospital",
+    "category": "hospital",
+    "description": "Government hospital near Pune station"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.877,
+     18.5332
+    ]
+   },
+   "properties": {
+    "name": "Ruby Hall Clinic",
+    "category": "hospital",
+    "description": "Multi-speciality hospital, Sassoon Road"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8764,
+     18.5308
+    ]
+   },
+   "properties": {
+    "name": "Jehangir Hospital",
+    "category": "hospital",
+    "description": "Multi-speciality hospital near Pune station"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.83,
+     18.5075
+    ]
+   },
+   "properties": {
+    "name": "Deenanath Mangeshkar Hospital",
+    "category": "hospital",
+    "description": "Large private hospital, Erandwane"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.841,
+     18.5236
+    ]
+   },
+   "properties": {
+    "name": "Fergusson College",
+    "category": "school",
+    "description": "Historic college on FC Road"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8566,
+     18.5293
+    ]
+   },
+   "properties": {
+    "name": "College of Engineering Pune (COEP)",
+    "category": "school",
+    "description": "Engineering college, Shivajinagar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8256,
+     18.5524
+    ]
+   },
+   "properties": {
+    "name": "Savitribai Phule Pune University",
+    "category": "school",
+    "description": "University campus, Ganeshkhind"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.849,
+     18.5306
+    ]
+   },
+   "properties": {
+    "name": "Modern High School",
+    "category": "school",
+    "description": "School in Shivajinagar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8416,
+     18.5163
+    ]
+   },
+   "properties": {
+    "name": "Cafe Goodluck",
+    "category": "restaurant",
+    "description": "Iconic Irani cafe at Deccan"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.84,
+     18.517
+    ]
+   },
+   "properties": {
+    "name": "Vaishali",
+    "category": "restaurant",
+    "description": "Popular restaurant on FC Road"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8786,
+     18.5136
+    ]
+   },
+   "properties": {
+    "name": "Kayani Bakery",
+    "category": "restaurant",
+    "description": "Famous bakery in Camp"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8766,
+     18.5167
+    ]
+   },
+   "properties": {
+    "name": "Dorabjee & Sons",
+    "category": "shop",
+    "description": "Grocery and restaurant in Camp"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.9167,
+     18.5617
+    ]
+   },
+   "properties": {
+    "name": "Phoenix Marketcity",
+    "category": "shop",
+    "description": "Large shopping mall, Viman Nagar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8559,
+     18.513
+    ]
+   },
+   "properties": {
+    "name": "Tulsi Baug Market",
+    "category": "shop",
+    "description": "Traditional market in old Pune"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.856,
+     18.5148
+    ]
+   },
+   "properties": {
+    "name": "Laxmi Road Market",
+    "category": "shop",
+    "description": "Busy shopping street"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8077,
+     18.5074
+    ]
+   },
+   "properties": {
+    "name": "Kothrud Stand Medical",
+    "category": "hospital",
+    "description": "Sample place near Kothrud"
+   }
+  }
+ ]
+}
